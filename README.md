@@ -3,7 +3,7 @@ This project explores and visualizes sales data from the Superstore.csv dataset.
 
 📊 Project Overview
 🔍 Data Cleaning & Exploration
-Loaded and explored the Superstore.csv dataset.
+Loaded and explored the Sample data.csv dataset.
 
 Handled missing values and ensured correct data types.
 
